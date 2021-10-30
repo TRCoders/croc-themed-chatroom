@@ -1,0 +1,27 @@
+body {
+	background: #E5DDD5 url("https://i.imgur.com/9sAQeEe.png");
+	margin:0;
+}
+.page-header {
+	background: #006A4E;
+	margin: 0;
+	padding: 20px 0 10px;
+	color: #FFFFFF;
+	position: fixed;
+	width: 100%;
+	z-index: 1
+}
+.main {
+	height: 100vh;
+	padding-top: 70px;
+}
+
+h1{
+	color: lightgreen;
+	margin:auto;
+}
+
+header{
+	text-align: center;
+}
+

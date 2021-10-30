@@ -1,0 +1,13 @@
+.scrollme{
+    overflow: auto;
+    color: white;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    border: 1px black solid;
+    width:25%;
+}
